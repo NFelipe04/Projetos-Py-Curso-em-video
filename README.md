@@ -1,1 +1,1 @@
-Serie de projetos focados em exercitar python
+Exercicios e Desafios do Curso em Video (Youtube)
